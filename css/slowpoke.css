@@ -1,0 +1,29 @@
+h1 {
+	padding-bottom: 0.25em;
+	color: #aaa;
+}
+
+fieldset {
+	margin-bottom: 15px;
+}
+
+textarea.form-control {
+	font-family: monospace;
+	font-size: 0.9em;
+}
+
+.context-spinner {
+	position: absolute;
+}
+
+.hdn {
+	display: none;
+}
+
+.faded-info {
+	color: #ccc;
+}
+
+#results {
+	color: red;
+}
